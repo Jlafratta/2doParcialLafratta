@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1dmbohYK06nOLTFgRYG0C8r3CJC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -16,8 +23,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.utn.parcial.SpringBootMain" />
+      <module name="2doParcialLafratta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.utn.parcial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,5 +64,45 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="178" key="#Project_Structure/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593033969591" />
+    <state x="-1710" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593039895005">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1710" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593039895005" />
+    <state width="1921" height="376" key="GridCell.Tab.0.bottom" timestamp="1593039875396">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="376" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593039875396" />
+    <state width="1921" height="376" key="GridCell.Tab.0.center" timestamp="1593039875396">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="376" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593039875396" />
+    <state width="1921" height="376" key="GridCell.Tab.0.left" timestamp="1593039875396">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="376" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593039875396" />
+    <state width="1921" height="376" key="GridCell.Tab.0.right" timestamp="1593039875396">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="376" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593039875396" />
+    <state width="1921" height="347" key="GridCell.Tab.1.bottom" timestamp="1593038270722">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593038270722" />
+    <state width="1921" height="347" key="GridCell.Tab.1.center" timestamp="1593038270722">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="347" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593038270722" />
+    <state width="1921" height="347" key="GridCell.Tab.1.left" timestamp="1593038270722">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="347" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593038270722" />
+    <state width="1921" height="347" key="GridCell.Tab.1.right" timestamp="1593038270722">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="347" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593038270722" />
+    <state x="-1920" y="98" key="SettingsEditor" timestamp="1593034416448">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="98" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593034416448" />
   </component>
 </project>
